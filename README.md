@@ -1,2 +1,2 @@
-# mapping the flow
+# Flow mapping
   recognizing the flow of customers.
